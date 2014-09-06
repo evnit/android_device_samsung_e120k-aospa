@@ -1,80 +1,32 @@
 [
   {
     "remote":       "github",
-    "repository": "evnit/android_vendor_samsung_e120k",
-    "target_path": "vendor/samsung/e120k",
-    "branch": "cm-11.0"
-  },
-  {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_device_samsung_qcom-common",
+    "repository":   "evnit/android_device_samsung_qcom-common",
     "target_path":  "device/samsung/qcom-common",
-    "revision":     "cm-11.0"
+    "revision":     "kitkat"
   },
   {
     "remote":       "github",
-    "repository":   "AOSPA-legacy/android_device_samsung_msm8660-common",
+    "repository":   "evnit/android_device_samsung_msm8660-common",
     "target_path":  "device/samsung/msm8660-common",
     "revision":     "kitkat"
   },
   {
     "remote":       "github",
-    "repository":   "AOSPA-legacy/android_device_samsung_celox-common",
+    "repository":   "evnit/android_device_samsung_celox-common",
     "target_path":  "device/samsung/celox-common",
     "revision":     "kitkat"
   },
   {
     "remote":       "github",
-    "repository": "evnit/android_kernel_samsung_msm8660-common",
-    "target_path": "kernel/samsung/msm8660-common",
-    "branch": "cm-11.0"
+    "repository":   "evnit/android_kernel_samsung_msm8660-common",
+    "target_path":  "kernel/samsung/msm8660-common",
+    "revision":     "kitkat"
   },
   {
     "remote":       "cm",
     "repository":   "CyanogenMod/android_packages_apps_SamsungServiceMode",
     "target_path":  "packages/apps/SamsungServiceMode",
-    "revision":     "cm-11.0"
-  },
-  {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_hardware_qcom_display-caf",
-    "target_path":  "hardware/qcom/display-caf",
-    "revision":     "cm-11.0"
-  },
-  {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_hardware_qcom_audio-caf",
-    "target_path":  "hardware/qcom/audio-caf",
-    "revision":     "cm-11.0"
-  },
-  {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_hardware_qcom_media-caf",
-    "target_path":  "hardware/qcom/media-caf",
-    "revision":     "cm-11.0"
-  },
-  {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_hardware_qcom_power",
-    "target_path":  "hardware/qcom/power",
-    "revision":     "cm-11.0"
-  },
-  {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_hardware_qcom_wlan",
-    "target_path":  "hardware/qcom/wlan",
-    "revision":     "cm-11.0"
-  },
-  {
-    "account":      "cm",
-    "repository":   "CyanogenMod/android_hardware_qcom_gps",
-    "target_path":  "hardware/qcom/gps",
-    "revision":     "cm-11.0"
-  },
-  {
-    "remote":       "cm",
-    "repository":   "CyanogenMod/android_hardware_qcom_bt",
-    "target_path":  "hardware/qcom/bt",
     "revision":     "cm-11.0"
   },
   {
